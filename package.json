@@ -1,5 +1,5 @@
 {
-  "name": "html-pdf-node",
+  "name": "html-to-pdf",
   "version": "1.0.9",
   "description": "Convert any html content or html page to PDF",
   "main": "index.js",
