@@ -1,6 +1,6 @@
 {
   "name": "html-to-pdf",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Convert any html content or html page to PDF",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "bluebird": "^3.7.2",
     "handlebars": "^4.7.7",
     "inline-css": "^4.0.1",
-    "puppeteer": "^19.6.3"
+    "puppeteer": "^19.8.0"
   },
   "devDependencies": {
     "chai": "^4.3.6",
